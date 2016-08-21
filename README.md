@@ -1,1 +1,1 @@
-# escalete_1
+# My first Wordpress theme 'escalete'
